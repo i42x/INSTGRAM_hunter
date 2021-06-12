@@ -29,12 +29,12 @@ try {
 				if($chatId == $id){
 					if($text == '/start'){
               $bot->sendphoto([ 'chat_id'=>$chatId,
-                  'photo'=>"https://t.me/ckbbbb/2",
-                   'caption'=>'𝙏𝙝𝙞𝙨 𝘽𝙤𝙩 𝙋𝙧𝙤𝙜𝙧𝙖𝙢𝙚𝙙 𝘽𝙮 : @X888E 💙',
+                  'photo'=>"https://t.me/FON_HD/2",
+                   'caption'=>'𝙏𝙝𝙞𝙨 𝘽𝙤𝙩 𝙋𝙧𝙤𝙜𝙧𝙖𝙢𝙚𝙙 𝘽𝙮 : @ALHJAMI 💙',
                   'reply_markup'=>json_encode([
                       'inline_keyboard'=>[
                           [['text'=>'اضافة حساب 👨🏻‍💻','callback_data'=>'login']],
-                       [['text'=>"𝘿𝙚𝙫𝙚𝙡𝙤𝙥𝙚𝙧", 'url'=>"https://t.me/X888E"]],
+                       [['text'=>"𝘿𝙚𝙫𝙚𝙡𝙤𝙥𝙚𝙧", 'url'=>"https://t.me/ALHJAMI"]],
                       ]
                   ])
               ]);   
@@ -45,17 +45,17 @@ if($text == '/help'){
               'caption'=>'طرق السحبب🤘😂',
                       'reply_markup'=>json_encode([
                       'inline_keyboard'=>[                       
-                       [['text'=>"𝙍𝙚𝙥𝙤𝙧𝙩 𝙋𝙧𝙤𝙗𝙡𝙚𝙢𝙨", 'url'=>"https://t.me/X888E"]],
+                       [['text'=>"𝙍𝙚𝙥𝙤𝙧𝙩 𝙋𝙧𝙤𝙗𝙡𝙚𝙢𝙨", 'url'=>"https://t.me/ALHJAMI"]],
                        ]
                        ])
                        ]);
     
               $bot->sendvoice([ 'chat_id'=>$chatId,
-                  'voice'=>"https://t.me/E999G",
+                  'voice'=>"https://t.me/ALHJAMI",
                            'caption'=>'الصيد تضمن كيف😂🤘',
                 ]);
                       $bot->sendvoice([ 'chat_id'=>$chatId,
-                  'voice'=>"https://t.me/E999G",
+                  'voice'=>"https://t.me/ALHJAMI",
               'caption'=>'كيف تجيي يوزرات للصيد 🥺❤',
              ]);
             
@@ -131,7 +131,7 @@ if($text == '/help'){
                       'chat_id'=>$chatId,
                       'message_id'=>$mid,
                       'text'=>"𝗪𝗘𝗟𝗖𝗢𝗠𝗘 𝗧𝗢 𝗖𝗢𝗡𝗧𝗥𝗢𝗟 𝗣𝗔𝗡𝗘𝗟 ✅
-𝘾𝙤𝙣𝙩𝙖𝙘𝙩 𝘿𝙚𝙫𝙚𝙡𝙤𝙥𝙚𝙧 - @X888E",
+𝘾𝙤𝙣𝙩𝙖𝙘𝙩 𝘿𝙚𝙫𝙚𝙡𝙤𝙥𝙚𝙧 - @ALHJAMI",
                   'reply_markup'=>json_encode([
                       'inline_keyboard'=>[
                           [['text'=>'اضافة حساب 👨🏻‍💻','callback_data'=>'login']],
@@ -188,7 +188,7 @@ if($text == '/help'){
 اضغط في الاسفل لمراسله المطور 👇",
 							'reply_markup'=>json_encode([
                   'inline_keyboard'=>[
-                      [['text'=>'𝘿𝙚𝙫𝙚𝙡𝙤𝙥𝙚𝙧','url'=>'t.me/X888E']]
+                      [['text'=>'𝘿𝙚𝙫𝙚𝙡𝙤𝙥𝙚𝙧','url'=>'t.me/ALHJAMI']]
                   ]
 							])
 					]);
@@ -397,7 +397,7 @@ if($text == '/help'){
                       'chat_id'=>$chatId,
                       'message_id'=>$mid,
                      'text'=>"𝗪𝗘𝗟𝗖𝗢𝗠𝗘 𝗧𝗢 𝗖𝗢𝗡𝗧𝗥𝗢𝗟 𝗣𝗔𝗡𝗘𝗟 ✅
-𝘾𝙤𝙣𝙩𝙖𝙘𝙩 𝘿𝙚𝙫𝙚𝙡𝙤𝙥𝙚𝙧 - @X888E",
+𝘾𝙤𝙣𝙩𝙖𝙘𝙩 𝘿𝙚𝙫𝙚𝙡𝙤𝙥𝙚𝙧 - @ALHJAMI",
                   'reply_markup'=>json_encode([
                       'inline_keyboard'=>[
                           [['text'=>'اضافة حساب 👨🏻‍💻','callback_data'=>'login']],
@@ -476,7 +476,7 @@ date_default_timezone_set('Asia/Baghdad');
                       'chat_id'=>$chatId,
                       'message_id'=>$mid,
                        'text'=>"𝗪𝗘𝗟𝗖𝗢𝗠𝗘 𝗧𝗢 𝗖𝗢𝗡𝗧𝗥𝗢𝗟 𝗣𝗔𝗡𝗘𝗟 ✅
-𝘾𝙤𝙣𝙩𝙖𝙘𝙩 𝘿𝙚𝙫𝙚𝙡𝙤𝙥𝙚𝙧 - @X888E",
+𝘾𝙤𝙣𝙩𝙖𝙘𝙩 𝘿𝙚𝙫𝙚𝙡𝙤𝙥𝙚𝙧 - @ALHJAMI",
                   'reply_markup'=>json_encode([
                       'inline_keyboard'=>[
                           [['text'=>'اضافة حساب 👨🏻‍💻','callback_data'=>'login']],
@@ -503,7 +503,7 @@ date_default_timezone_set('Asia/Baghdad');
                       'chat_id'=>$chatId,
                       'message_id'=>$mid,
                       'text'=>"𝗪𝗘𝗟𝗖𝗢𝗠𝗘 𝗧𝗢 𝗖𝗢𝗡𝗧𝗥𝗢𝗟 𝗣𝗔𝗡𝗘𝗟 ✅
-𝘾𝙤𝙣𝙩𝙖𝙘𝙩 𝘿𝙚𝙫𝙚𝙡𝙤𝙥𝙚𝙧 - @X888E",
+𝘾𝙤𝙣𝙩𝙖𝙘𝙩 𝘿𝙚𝙫𝙚𝙡𝙤𝙥𝙚𝙧 - @ALHJAMI",
                   'reply_markup'=>json_encode([
                       'inline_keyboard'=>[
                           [['text'=>'اضافة حساب 👨🏻‍💻','callback_data'=>'login']],
